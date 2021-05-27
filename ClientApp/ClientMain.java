@@ -14,6 +14,8 @@ public class ClientMain {
         //
         Scanner input = new Scanner(System.in);
 
+        //por default é usado o localhost
+        //Substitua "localhost" pelo endereco do servidor
         Socket newConnection = new Socket("localhost", 3264);
         System.out.println("Client connected at port 3264\n-----------------------------");
 
