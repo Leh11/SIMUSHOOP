@@ -7,21 +7,21 @@ Aplicação:
 	A aplicação consiste em uma plataforma que tem como objetivo simular um ambiente digital de comprar e vendas de produtos. A aplicação utilizada a abordagem cliente-servidor, no qual foi implementado usando a linguagem de programação java.  Então a ideia consiste em possíveis vendedores e consumidores se conectarem no servidor e então realizarem suas inscrições. Desta forma os vendedores poderiam adicionar seus produtos a venda, através da aplicação, e analogamente os clientes verificam os produtos à venda e realizam compras.
 
 Principais funcionalidades:
-	Cadastrado de novos clientes (Vendedores/Consumidores)
-	Login
-	Adição de produtos pelos clientes cadastrados na forma de vendedor.
-	Vendedores podem visualizar possíveis ganhos com vendas
-	Busca de produtos por clientes Consumidores
+**	Cadastrado de novos clientes (Vendedores/Consumidores)
+**	Login
+**	Adição de produtos pelos clientes cadastrados na forma de vendedor.
+**	Vendedores podem visualizar possíveis ganhos com vendas
+**	Busca de produtos por clientes Consumidores
 
-Oque poderia ser implementado a mais?
- A ideia inicial era desenvolver uma interface gráfica simples qual os clientes poderiam interagir de forma mais fluida. Entretanto do desenvolvimento da mesma mostrou se torna um quanto complexa, oque poderiam necessitar de um tempo maior, além da falta de domínio no desenvolvimento dessa ideia tornou a implementação inviável.
-	Interface de usuário mais fluida
-	Remoção de produtos
-	Gerenciamento de compras mais robusta
+O que poderia ser implementado a mais?
+** A ideia inicial era desenvolver uma interface gráfica simples qual os clientes poderiam interagir de forma mais fluida. Entretanto do desenvolvimento da mesma mostrou se torna um quanto complexa, oque poderiam necessitar de um tempo maior, além da falta de domínio no desenvolvimento dessa ideia tornou a implementação inviável.
+**	Interface de usuário mais fluida
+**	Remoção de produtos
+**	Gerenciamento de compras mais robusta
 
 Dificuldades:
-	Adoção de uma padronização de comunicação entre aplicação
-	Desenvolvimento da UI
+**	Adoção de uma padronização de comunicação entre aplicação
+**	Desenvolvimento da UI
 
 
 
